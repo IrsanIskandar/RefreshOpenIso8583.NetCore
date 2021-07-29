@@ -1,4 +1,4 @@
-# Refresh OpenIso8583.Net
+# Refresh OpenIso8583.NetCore
 
 OpenIso8583.NetCore is a .Net message builder and parser for ISO 8583 financial messages
 
