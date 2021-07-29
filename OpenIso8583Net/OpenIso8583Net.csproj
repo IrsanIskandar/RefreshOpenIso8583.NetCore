@@ -8,6 +8,7 @@
     <RepositoryUrl>https://github.com/IrsanIskandar/RefreshOpenIso8583.NetCore.git</RepositoryUrl>
     <PackageTags>ISO8583.NetCore</PackageTags>
     <PackageProjectUrl>https://github.com/IrsanIskandar/RefreshOpenIso8583.NetCore</PackageProjectUrl>
+    <PackageId>RefreshOpenIso8583Net</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
