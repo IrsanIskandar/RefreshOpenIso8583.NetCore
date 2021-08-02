@@ -1,14 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-    <AssemblyVersion>1.0.1.1</AssemblyVersion>
-    <FileVersion>1.0.1.0</FileVersion>
-    <Version>1.1.1</Version>
+	<TargetFrameworks>netstandard2.1;netstandard2.0;net5.0;net48;net47;net46;net45</TargetFrameworks>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <FileVersion>1.2.0.0</FileVersion>
+    <Version>1.2.0</Version>
     <RepositoryUrl>https://github.com/IrsanIskandar/RefreshOpenIso8583.NetCore.git</RepositoryUrl>
-    <PackageTags>ISO8583.NetCore</PackageTags>
+    <PackageTags>ISO8583.NetCore,NETStandard,NetFramework</PackageTags>
     <PackageProjectUrl>https://github.com/IrsanIskandar/RefreshOpenIso8583.NetCore</PackageProjectUrl>
     <PackageId>RefreshOpenIso8583Net</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageReleaseNotes>Added Multiple Target Frameworks netstandard2.1;netstandard2.0;net5.0;net48;net47;net46;net45</PackageReleaseNotes>
+    <RepositoryType>Public</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
